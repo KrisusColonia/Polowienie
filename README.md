@@ -1,4 +1,4 @@
-# Znajdowanie miejsca zerowego metodą połowienia przedziałów (metoda Bisekcji)
+# Wyszukiwanie miejsca zerowego metodą połowienia przedziałów (metoda Bisekcji)
 
 ## 1. Czym jest metoda połowienia?
 
